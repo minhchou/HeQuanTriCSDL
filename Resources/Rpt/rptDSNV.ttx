@@ -1,0 +1,10 @@
+STT	Number		1
+MaNV	String	24	
+HoTen	String	256	
+NgaySinh	Date		
+GioiTinh	String	4	
+CMND	String	12	
+TenDV	String	192	
+Email	String	192	
+NgayVaoLam	Date		
+TenCV	String	192	
